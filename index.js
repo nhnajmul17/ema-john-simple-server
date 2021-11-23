@@ -12,12 +12,12 @@ const port = process.env.PORT || 5000;
 //firebase admin initialize
 
 
-var serviceAccount = require("./ema-john-simple-0001-firebase-adminsdk-1tpwr-a675b41ffe.json");
+/* var serviceAccount = require("./ema-john-simple-0001-firebase-adminsdk-1tpwr-a675b41ffe.json");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
 });
-
+ */
 
 
 //middleware
